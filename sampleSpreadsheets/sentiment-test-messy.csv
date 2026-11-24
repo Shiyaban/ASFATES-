@@ -1,0 +1,55 @@
+Text,Sentiment,Source,Date/Time,User ID,Location,Confidence Score
+N/A,Neutral,Event Survey,2023-08-01 09:00:00,user001,Quezon City,0.5
+n/a,Neutral,Event Survey,2023-08-01 09:17:00,user002,Manila,0.57
+NA,Neutral,Event Survey,2023-08-01 09:34:00,user003,Cebu,0.64
+NULL,Neutral,Event Survey,2023-08-01 09:51:00,user004,Davao,0.71
+None,Neutral,Event Survey,2023-08-01 10:08:00,user005,Makati,0.78
+none,Neutral,Event Survey,2023-08-01 10:25:00,user006,Quezon City,0.85
+NONE!!,Neutral,Event Survey,2023-08-01 10:42:00,user007,Manila,0.92
+N/A.,Neutral,Event Survey,2023-08-01 10:59:00,user008,Cebu,0.99
+nil,Neutral,Event Survey,2023-08-01 11:16:00,user009,Davao,0.56
+nothing,Neutral,Event Survey,2023-08-01 11:33:00,user010,Makati,0.63
+No comment,Neutral,Event Survey,2023-08-01 11:50:00,user011,Quezon City,0.7
+no comments.,Neutral,Event Survey,2023-08-01 12:07:00,user012,Manila,0.77
+-,Neutral,Event Survey,2023-08-01 12:24:00,user013,Cebu,0.84
+---,Neutral,Event Survey,2023-08-01 12:41:00,user014,Davao,0.91
+...,Neutral,Event Survey,2023-08-01 12:58:00,user015,Makati,0.98
+???,Neutral,Event Survey,2023-08-01 13:15:00,user016,Quezon City,0.55
+,Neutral,Event Survey,2023-08-01 13:32:00,user017,Manila,0.62
+     ,Neutral,Event Survey,2023-08-01 13:49:00,user018,Cebu,0.69
+"	
+",Neutral,Event Survey,2023-08-01 14:06:00,user019,Davao,0.76
+idk,Neutral,Event Survey,2023-08-01 14:23:00,user020,Makati,0.83
+IDK,Neutral,Event Survey,2023-08-01 14:40:00,user021,Quezon City,0.9
+idk lol,Neutral,Event Survey,2023-08-01 14:57:00,user022,Manila,0.97
+i don't know,Neutral,Event Survey,2023-08-01 15:14:00,user023,Cebu,0.54
+not sure,Neutral,Event Survey,2023-08-01 15:31:00,user024,Davao,0.61
+"idk, it was so fine that I don't know what to say",Positive,Event Survey,2023-08-01 15:48:00,user025,Makati,0.68
+"none, well it was pretty much a good event tho",Positive,Event Survey,2023-08-01 16:05:00,user026,Quezon City,0.75
+Nothing was clear about the exam schedule,Negative,Event Survey,2023-08-01 16:22:00,user027,Manila,0.82
+n/a for me but my friend loved the keynote,Positive,Event Survey,2023-08-01 16:39:00,user028,Cebu,0.89
+Great talk! Email me at maria.santos@up.edu.ph for the slides,Positive,Event Survey,2023-08-01 16:56:00,maria.santos@up.edu.ph,Davao,0.96
+Contact john_doe+event@gmail.com if you want my feedback in detail,Neutral,Event Survey,2023-08-01 17:13:00,john_doe+event@gmail.com,Makati,0.53
+The venue was too hot. Reach me at sam@mail.example.com,Negative,Event Survey,2023-08-01 17:30:00,sam@mail.example.com,Quezon City,0.6
+Loved it!! text me 0917 123 4567,Positive,Event Survey,2023-08-01 17:47:00,user034,Manila,0.67
+Call (302)564-9011 if you need clarification on my answers,Neutral,Event Survey,2023-08-01 18:04:00,user035,Cebu,0.74
+Details here https://forms.example.com/feedback/123 thanks,Neutral,Event Survey,2023-08-01 18:21:00,user036,Davao,0.81
+Reply to lea.cruz@ateneo.edu or +63-917-555-0199 or see http://bit.ly/abc,Neutral,Event Survey,2023-08-01 18:38:00,user037,Makati,0.88
+oh damn,Neutral,Event Survey,2023-08-01 18:55:00,user038,Quezon City,0.95
+oh damn,Neutral,Event Survey,2023-08-01 19:12:00,user039,Manila,0.52
+oh damn,Neutral,Event Survey,2023-08-01 19:29:00,user040,Cebu,0.59
+oh damn@,Neutral,Event Survey,2023-08-01 19:46:00,user041,Davao,0.66
+Oh damn!!,Neutral,Event Survey,2023-08-01 20:03:00,user042,Makati,0.73
+  oh   damn  ,Neutral,Event Survey,2023-08-01 20:20:00,user043,Quezon City,0.8
+The event was great,Positive,Event Survey,2023-08-01 20:37:00,user044,Manila,0.87
+The event was great!,Positive,Event Survey,2023-08-01 20:54:00,user045,Cebu,0.94
+the event was GREAT#,Positive,Event Survey,2023-08-01 21:11:00,user046,Davao,0.51
+!!!,Neutral,Event Survey,2023-08-01 21:28:00,user047,Makati,0.58
+###,Neutral,Event Survey,2023-08-01 21:45:00,user048,Quezon City,0.65
+The food was cold and the line took an hour.,Negative,Event Survey,2023-08-01 22:02:00,user049,Manila,0.72
+"Best orientation I've attended, the speakers were engaging!",Positive,Event Survey,2023-08-01 22:19:00,user050,Cebu,0.79
+"It was okay, nothing special but nothing bad either.",Neutral,Event Survey,2023-08-01 22:36:00,user051,Davao,0.86
+Sound system kept cutting out during the panel.,Negative,Event Survey,2023-08-01 22:53:00,user052,Makati,0.93
+Loved the workshop activities,,Event Survey,2023-08-01 23:10:00,user053,Quezon City,0.5
+The registration process was confusing,N/A,Event Survey,2023-08-01 23:27:00,user054,Manila,0.57
+Good overall,Positive,Event Survey,2023-08-01 23:44:00,,Cebu,0.64

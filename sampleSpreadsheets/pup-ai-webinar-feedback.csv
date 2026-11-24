@@ -1,0 +1,73 @@
+Text,Sentiment,Source,Date/Time,User ID,Location,Confidence Score
+Slides? https://drive.google.com/file/d/abc123 is this the correct link? kasi di nagbubukas,Negative,Zoom Chat,2026-10-24 09:02:00,dcpe633,Quezon City,0.69
+"IDK what to say, it was so good I'm still thinking about it",Positive,Feedback Form,2026-10-24 09:04:00,pupian130,Quezon City,0.82
+"The first half was super useful, the second half lost me. Overall ok.",Neutral,Feedback Form,2026-10-24 09:06:00,ate438,Cavite,0.9
+no comment,Neutral,Feedback Form,2026-10-24 09:08:00,bsit_785,Cavite,0.6
+"not sure po, medyo confusing pero interesting",Neutral,Feedback Form,2026-10-24 09:10:00,stud165,Cavite,0.71
+The Q&A was rushed. Dami naming tanong pero na-cut off agad.,,Feedback Form,2026-10-24 09:12:00,kuya441,Cavite,0.85
+"Grabe ang ganda ng discussion about how neural networks actually process data. First time ko naiintindihan ang backpropagation, thank you speaker!",Positive,Feedback Form,2026-10-24 09:14:00,iskolar995,Caloocan,0.63
+"Too fast. By the time I understood one slide, nasa next topic na si speaker.",Negative,Feedback Form,2026-10-24 09:16:00,pupian792,Quezon City,0.92
+"Too long. 3 hours straight with no break, nakakaubos ng energy.",Negative,Feedback Form,2026-10-24 09:18:00,ate596,Taguig,0.73
+Hindi ko gets yung topic about transformers. Parang walang basic explanation before diving in.,Negative,Feedback Form,2026-10-24 09:20:00,stud358,Quezon City,0.82
+thank you for the webinar,Positive,Zoom Chat,2026-10-24 09:22:00,stud618,Bulacan,0.59
+Thank you for the webinar!,Positive,Feedback Form,2026-10-24 09:24:00,,Caloocan,0.95
+good webinar 👍👍👍,Positive,Facebook Comment,2026-10-24 09:26:00,kuya80,Cavite,0.85
+Ok naman. Mas gusto ko sana kung may hands-on part.,Neutral,Feedback Form,2026-10-24 09:28:00,pupian977,Taguig,0.74
+Sana next time may recorded version para ma-rewatch.,Neutral,Facebook Comment,2026-10-24 09:30:00,dcpe495,Pasig,0.86
+Nakakainspire. Nag-iisip na ako mag-specialize sa machine learning after this.,Positive,Feedback Form,2026-10-24 09:32:00,pupian72,"Sta. Mesa, Manila",0.59
+The explanation on bias in datasets was eye opening. Kailangan talaga natin malaman to.,Positive,Feedback Form,2026-10-24 09:34:00,dcpe672,Marikina,0.62
+Thank you for the webinar!!,Positive,Facebook Comment,2026-10-24 09:36:00,anon707,Pasig,0.97
+Not bad at all! Honestly better than I expected.,Positive,Feedback Form,2026-10-24 09:38:00,kuya301,Bulacan,0.56
+The demo on how a model tokenizes text was the best part. Super clear and hindi nakakaantok.,Positive,Feedback Form,2026-10-24 09:40:00,ml_fan918,Taguig,0.8
+It was fine. I learned some things but nothing groundbreaking.,Neutral,Feedback Form,2026-10-24 09:42:00,stud33,Pasig,0.75
+I can't say it was boring. I can't say it wasn't confusing either.,Neutral,Feedback Form,2026-10-24 09:44:00,kuya373,"Sta. Mesa, Manila",0.83
+Walang certificate na ibinigay after?? that was the whole reason I joined.,Negative,Facebook Comment,2026-10-24 09:46:00,bsit_635,Pasig,0.81
+Zoom link was sent 10 minutes before the start. Sobrang disorganized.,,Facebook Comment,2026-10-24 09:48:00,pupian515,Caloocan,0.8
+Speaker was knowledgeable but kinda monotone. Content was great though.,Neutral,Feedback Form,2026-10-24 09:50:00,iskolar233,Rizal,0.75
+"Hmm. Not bad, not amazing. Attended mostly for the certificate honestly.",Neutral,Feedback Form,2026-10-24 09:52:00,dcpe142,Quezon City,0.94
+,Neutral,Feedback Form,2026-10-24 09:54:00,bscs_417,Caloocan,0.62
+I expected hands-on activities but it was just a long lecture. Medyo disappointed.,Negative,Feedback Form,2026-10-24 09:56:00,ml_fan948,Pasig,0.78
+"Maganda yung topic, pero sana mas maraming examples and less theory.",Neutral,Feedback Form,2026-10-24 09:58:00,kuya92,Bulacan,0.56
+"di ko alam kung anong irerate ko, ang dami kong natutunan pero ang bilis lang talaga",Neutral,Feedback Form,2026-10-24 10:00:00,bsit_469,Taguig,0.89
+N/A for the questions but overall ok naman,Neutral,Feedback Form,2026-10-24 10:02:00,ml_fan572,Bulacan,0.86
+Great pacing and the live coding was a nice touch. Learned a lot in 2 hours.,Positive,Feedback Form,2026-10-24 10:04:00,dcpe914,Marikina,0.59
+"none, but the speaker was really good tbh",Positive,Feedback Form,2026-10-24 10:06:00,bsit_848,Pasig,0.86
+   ,Neutral,Feedback Form,2026-10-24 10:08:00,ml_fan894,Pasig,0.61
+-,Neutral,Feedback Form,2026-10-24 10:10:00,ate295,Pasig,0.96
+Audio was bad.,Negative,Feedback Form,2026-10-24 10:12:00,ml_fan377,Bulacan,0.63
+The content was too advanced for a general audience. Parang lahat ng terms hindi ine-explain.,Negative,Feedback Form,2026-10-24 10:14:00,ml_fan990,Rizal,0.92
+I liked that they showed real examples of AI processing images and not just theory.,Positive,Feedback Form,2026-10-24 10:16:00,bscs_164,Marikina,0.56
+Thank you for the webinar!,Positive,Feedback Form,2026-10-24 10:18:00,pupian190,Antipolo,0.64
+none,Neutral,Feedback Form,2026-10-24 10:20:00,bsit_247,Marikina,0.76
+boring. 😴,Negative,Facebook Comment,2026-10-24 10:22:00,,Marikina,0.87
+"  the speker was reallly good, explaned eveything clearly  ",Positive,Feedback Form,2026-10-24 10:24:00,kuya861,Laguna,0.69
+"slides were too text heavy and the font was tiny, di mabasa sa phone ko",Negative,Feedback Form,2026-10-24 10:26:00,anon196,Marikina,0.78
+nothing,Neutral,Feedback Form,2026-10-24 10:28:00,dcpe298,Marikina,0.9
+"Please send the slides to jdelacruz@iskolarngbayan.pup.edu.ph, thanks! Very good talk.",Positive,Feedback Form,2026-10-24 10:30:00,iskolar159,Pasig,0.58
+Nice webinar. Message me at 0998-765-4321 if may study group kayo for ML,Positive,Feedback Form,2026-10-24 10:32:00,ml_fan557,Cavite,0.86
+Super fun yung bahagi na nag-lag lahat. Very smooth. 🙃,Negative,Zoom Chat,2026-10-24 10:34:00,stud634,Bulacan,0.93
+thx for the info!!,Positive,Zoom Chat,2026-10-24 10:36:00,anon336,"Sta. Mesa, Manila",0.83
+"idk, so much info I couldn't process it all lol",Neutral,Feedback Form,2026-10-24 10:38:00,bsit_717,"Sta. Mesa, Manila",0.89
+LOVED IT!!! please share the recording 😭,Positive,Zoom Chat,2026-10-24 10:40:00,ate983,Caloocan,0.77
+n/a,Neutral,Feedback Form,2026-10-24 10:42:00,anon680,Cavite,0.9
+"Wow, great, another webinar where the mic is muted for 20 minutes. Love that for us.",Negative,Facebook Comment,2026-10-24 10:44:00,iskolar477,Caloocan,0.92
+Hindi ko nareceive yung certificate. Email me at mary.grace.reyes@gmail.com or text 0917 555 0142,Negative,Feedback Form,2026-10-24 10:46:00,ate411,Marikina,0.6
+Sobrang helpful for our thesis! We're planning to use a classification model and the Q&A answered most of my doubts.,Positive,Feedback Form,2026-10-24 10:48:00,ml_fan418,Antipolo,0.61
+audio was bad,Negative,Zoom Chat,2026-10-24 10:50:00,ml_fan116,Bulacan,0.76
+Interesting topic. I still have questions about how AI handles real time data.,Neutral,Zoom Chat,2026-10-24 10:52:00,kuya659,Cavite,0.92
+N/A,Neutral,Feedback Form,2026-10-24 10:54:00,ml_fan73,Bulacan,0.88
+Audio kept cutting out during the first 30 minutes. Hindi ko narinig yung buong intro.,Negative,Feedback Form,2026-10-24 10:56:00,bscs_78,Bulacan,0.81
+Speaker was engaging and explained GPUs vs CPUs using a jeepney analogy lol. Genius.,Positive,Zoom Chat,2026-10-24 10:58:00,bscs_461,Quezon City,0.88
+Okay lang naman. Informative pero medyo boring yung second half.,Neutral,Feedback Form,2026-10-24 11:00:00,bsit_122,Marikina,0.61
+None.,Neutral,Feedback Form,2026-10-24 11:02:00,stud625,Quezon City,0.61
+Worth giving up my Saturday morning for. 10/10 would attend again,Positive,Facebook Comment,2026-10-24 11:04:00,iskolar114,Marikina,0.81
+Very informative webinar. I now understand the difference between training and inference.,Positive,Feedback Form,2026-10-24 11:06:00,iskolar590,Cavite,0.6
+Good content but the audio issues made it hard to focus. Sayang kasi magaling yung speaker.,Neutral,Feedback Form,2026-10-24 11:08:00,bsit_559,Marikina,0.58
+The slides were clean and easy to follow. The part about data preprocessing finally made sense to me.,Positive,Feedback Form,2026-10-24 11:10:00,pupian981,Bulacan,0.84
+TOO LONG!!! WALANG BREAK,Negative,Zoom Chat,2026-10-24 11:12:00,stud638,Marikina,0.77
+As a first year student I was scared this would be too technical but it was beginner friendly. Salamat po!,Positive,Feedback Form,2026-10-24 11:14:00,iskolar82,Cavite,0.75
+"galing ni sir! practical talaga, hindi puro buzzwords",Positive,Zoom Chat,2026-10-24 11:16:00,bscs_638,Antipolo,0.88
+Thank you PUP for hosting this!! More webinars like this pls 🙏,Positive,Facebook Comment,2026-10-24 11:18:00,ml_fan162,Antipolo,0.92
+ang   dami   kong   natutunan   today,Positive,Feedback Form,2026-10-24 11:20:00,dcpe988,"Sta. Mesa, Manila",0.57
+Nagfreeze yung screen share tapos walang nag-fix for like 15 mins. Nakakainis.,Negative,Zoom Chat,2026-10-24 11:22:00,stud626,Cavite,0.63
+idk,Neutral,Zoom Chat,2026-10-24 11:24:00,stud495,Rizal,0.57
