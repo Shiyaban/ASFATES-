@@ -53,7 +53,7 @@ with fBtn2:
         st.rerun()
 
 if st.session_state.frame == "upload":
-    userSheet = st.file_uploader("Upload Files to Analyze Here: ", type=["csv", "xlsx"], disabled=isRunning)
+    userSheet = st.file_uploader("Upload Files to Analyze Here: ", type=["csv", "xlsx"], disabled=isRunning, accept_multiple_files=False)
     hasInput = userSheet is not None
 else:
     userSheet = None
@@ -122,7 +122,7 @@ if hasInput:
             if st.session_state.get("df") is None:
                 st.session_state.df = backend.insertCheck(userSheet)
 
-            reqColumns = st.multiselect("Select columns", st.session_state.df.columns, key=f"cols_{userSheet.file_id}", disabled=isRunning)
+            reqColumns = st.multiselect("Select columns", st.session_state.df.columns, key=f"cols_{userSheet.file_id}", disabled=isRunning, max_selections=1)
         else:
             reqColumns = ["Feedback"] if st.session_state.liveEntries else []
         

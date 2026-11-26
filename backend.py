@@ -108,7 +108,7 @@ def AIAnalysis(Client, BatchData, Retries = 3, RateLimitRetry = 5):
     Output valid JSON only. Do not use markdown blocks.
     """
 
-    print (BatchData)
+    
     attempt = 0
     RLAttempt = 0
     attempting = True
